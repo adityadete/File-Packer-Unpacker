@@ -1,5 +1,4 @@
 # File-Packer-Unpacker
-# Custom_File_Packer_Unpacker
 📦 Custom File Packer & Unpacker (Java CLI)
 
 ![Language](https://img.shields.io/badge/Language-Java-orange)
